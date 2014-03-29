@@ -1,0 +1,62 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}{section.1}
+\contentsline {section}{\numberline {2}Selecci\IeC {\'o}n de la empresa}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Criterio de seleccion}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Asignaci\IeC {\'o}n de puntajes}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Resultados}{5}{subsection.2.3}
+\contentsline {section}{\numberline {3}Empresa relevada}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Minuta de Reuni\IeC {\'o}n 02/09/2013}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Preguntas}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Preguntas introductorias}{8}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Minuta de Reuni\IeC {\'o}n 26/09/2013}{9}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Comercial}{10}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Producci\IeC {\'o}n}{10}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}R.R. H.H.}{11}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Finanzas}{12}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5}Control de Calidad}{12}{subsubsection.3.3.5}
+\contentsline {subsection}{\numberline {3.4}Organigrama relevado}{12}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Funciones, responsabilidades y autoridad de los sectores.}{13}{subsubsection.3.4.1}
+\contentsline {paragraph}{1.1: Gerencia General}{13}{section*.2}
+\contentsline {subparagraph}{Funciones:}{13}{section*.3}
+\contentsline {paragraph}{2.1: Gerencia de administraci\IeC {\'o}n y Finanzas:}{13}{section*.4}
+\contentsline {subparagraph}{Funciones:}{13}{section*.5}
+\contentsline {paragraph}{2.2: Gerencia Suministros y Materiales:}{13}{section*.6}
+\contentsline {subparagraph}{Funciones:}{13}{section*.7}
+\contentsline {paragraph}{2.3: Gerencia Producci\IeC {\'o}n:}{13}{section*.8}
+\contentsline {subparagraph}{Funciones:}{14}{section*.9}
+\contentsline {paragraph}{2.4: Gerencia Ingenier\IeC {\'\i }a:}{14}{section*.10}
+\contentsline {subparagraph}{Funciones:}{14}{section*.11}
+\contentsline {paragraph}{2.5: Gerencia Gesti\IeC {\'o}n de calidad:}{14}{section*.12}
+\contentsline {subparagraph}{Funciones:}{14}{section*.13}
+\contentsline {paragraph}{2.6: Gerencia Ventas:}{14}{section*.14}
+\contentsline {subparagraph}{Funciones:}{14}{section*.15}
+\contentsline {paragraph}{2.7: Gerencia Base San Julian:}{14}{section*.16}
+\contentsline {subparagraph}{Funciones:}{15}{section*.17}
+\contentsline {paragraph}{1.2: Gerencia Negocios Internacionales}{15}{section*.18}
+\contentsline {subparagraph}{Funciones:}{15}{section*.19}
+\contentsline {subsection}{\numberline {3.5}Estructura de la empresa}{15}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Minuta de Reuni\IeC {\'o}n 26/09/2013}{16}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Mejora propuesta}{17}{subsection.3.7}
+\contentsline {subsubsection}{\numberline {3.7.1}Funciones y responsabilidades de los nuevos sectores}{17}{subsubsection.3.7.1}
+\contentsline {paragraph}{2.1: Gerencia Administraci\IeC {\'o}n:}{17}{section*.20}
+\contentsline {subparagraph}{Funciones:}{17}{section*.21}
+\contentsline {paragraph}{2.2: Gerencia Finanzas y Gesti\IeC {\'o}n:}{17}{section*.22}
+\contentsline {subparagraph}{Funciones:}{17}{section*.23}
+\contentsline {paragraph}{2.3: Gerencia Operaciones:}{17}{section*.24}
+\contentsline {subparagraph}{Funciones:}{17}{section*.25}
+\contentsline {paragraph}{3.1: Producci\IeC {\'o}n:}{17}{section*.26}
+\contentsline {subparagraph}{Funciones:}{18}{section*.27}
+\contentsline {paragraph}{3.2: Ingenier\IeC {\'\i }a:}{18}{section*.28}
+\contentsline {subparagraph}{Funciones:}{18}{section*.29}
+\contentsline {section}{\numberline {4}Conclusiones}{19}{section.4}
+\contentsline {section}{\numberline {5}Casos de estudio}{20}{section.5}
+\contentsline {subsection}{\numberline {5.1}Caso 1: Elevadores H\IeC {\'e}rcules S.A.}{20}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Enunciado}{20}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Preguntas}{21}{subsubsection.5.1.2}
+\contentsline {subsection}{\numberline {5.2}Caso 2: Los Gringos S.A.}{23}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Enunciado}{23}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Preguntas}{25}{subsubsection.5.2.2}
+\contentsline {subsection}{\numberline {5.3}Caso 3: La Rapidez}{27}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Enunciado}{27}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Diagn\IeC {\'o}stico}{29}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Posibles Soluciones}{29}{subsubsection.5.3.3}
